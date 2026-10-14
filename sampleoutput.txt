@@ -1,0 +1,74 @@
+Temperature Converter
+---------------------
+1. Celsius to Fahrenheit
+2. Celsius to Kelvin
+3. Fahrenheit to Celsius
+4. Fahrenheit to Kelvin
+5. Kelvin to Celsius
+6. Kelvin to Fahrenheit
+Enter your choice: 1
+Enter temperature: 98
+Result: 208.4 °F
+
+Temperature Converter
+---------------------
+1. Celsius to Fahrenheit
+2. Celsius to Kelvin
+3. Fahrenheit to Celsius
+4. Fahrenheit to Kelvin
+5. Kelvin to Celsius
+6. Kelvin to Fahrenheit
+Enter your choice: 2
+Enter temperature: 87
+Result: 360.15 K
+
+
+Temperature Converter
+---------------------
+1. Celsius to Fahrenheit
+2. Celsius to Kelvin
+3. Fahrenheit to Celsius
+4. Fahrenheit to Kelvin
+5. Kelvin to Celsius
+6. Kelvin to Fahrenheit
+Enter your choice: 3
+Enter temperature: 78
+Result: 25.56 °C
+
+Temperature Converter
+---------------------
+1. Celsius to Fahrenheit
+2. Celsius to Kelvin
+3. Fahrenheit to Celsius
+4. Fahrenheit to Kelvin
+5. Kelvin to Celsius
+6. Kelvin to Fahrenheit
+Enter your choice: 4
+Enter temperature: 89
+Result: 304.82 K
+
+
+Temperature Converter
+---------------------
+1. Celsius to Fahrenheit
+2. Celsius to Kelvin
+3. Fahrenheit to Celsius
+4. Fahrenheit to Kelvin
+5. Kelvin to Celsius
+6. Kelvin to Fahrenheit
+Enter your choice: 5
+Enter temperature: 89
+Result: -184.15 °C
+
+
+Temperature Converter
+---------------------
+1. Celsius to Fahrenheit
+2. Celsius to Kelvin
+3. Fahrenheit to Celsius
+4. Fahrenheit to Kelvin
+5. Kelvin to Celsius
+6. Kelvin to Fahrenheit
+Enter your choice: 6
+Enter temperature: 78
+Result: -319.27 °F
